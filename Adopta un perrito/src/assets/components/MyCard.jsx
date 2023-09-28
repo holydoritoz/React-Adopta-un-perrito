@@ -7,7 +7,7 @@ export const MyCard = ( { url, name, description, bg, texto } ) => {
 
     const cardStyle ={
         width:'22rem',
-        padding:'1rem'
+        padding:'.5rem'
     }
     const imgStyle ={
         width:'100%',
